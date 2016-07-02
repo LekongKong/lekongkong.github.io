@@ -36,7 +36,7 @@ THEME='Flex'
 SITETITLE = 'Lkk Team'
 SITESUBTITLE = 'make world better~~'
 SITEDESCRIPTION = 'Lkk Team members Thoughts and Writings'
-SITELOGO = 'http://s.baixing.net/lkk/favicon.png'
+SITELOGO = 'http://file.baixing.net/201607/eebe4a59ed0852fa1df5b6ded8fe00c2.png'
 BROWSER_COLOR = '#333'
 
 FAVICON = 'http://s.baixing.net/lkk/favicon.png'
