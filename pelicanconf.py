@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Lkk Team'
-SITENAME = u'Lkk Team Blog'
-SITEURL = u'https://lekongkong.github.io'
+AUTHOR = 'Lkk Team'
+SITENAME = 'Lkk Team Blog'
+SITEURL = 'https://lekongkong.github.io'
 
 PATH = 'content'
 
