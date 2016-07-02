@@ -50,6 +50,6 @@ CC_LICENSE = { 'name': 'Creative Commons Attribution-ShareAlike', 'version':'4.0
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
 }
-CUSTOM_CSS = 'static/custom.css'
+#CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
