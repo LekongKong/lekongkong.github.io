@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Lkk Team'
-SITENAME = 'Lkk Team Blog'
-SITEURL = 'http://lekongkong.github.io'
 
 PATH = 'content'
 
@@ -31,11 +28,14 @@ DEFAULT_PAGINATION = 15
 
 THEME='Flex'
 
+AUTHOR = 'Lkk Team'
+SITENAME = 'Lkk Team Blog'
+SITEURL = 'http://lekongkong.github.io'
+RELATIVE_URLS = False
 SITETITLE = 'Lkk Team'
 SITESUBTITLE = 'make world better~~'
 SITEDESCRIPTION = 'Lkk Team members Thoughts and Writings'
 SITELOGO = 'http://s.baixing.net/lkk/favicon.png'
-SITEURL = 'http://lekongkong.github.io'
 BROWSER_COLOR = '#333'
 
 FAVICON = 'http://s.baixing.net/lkk/favicon.png'
