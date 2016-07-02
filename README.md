@@ -10,10 +10,10 @@ clone repo 到本地.执行 setup 文件安装。windows用户请自行参考 se
 
 该命令会执行下述步骤
 
-*. 提交所有的更改
-*. 将代码库内容推送到 github 的 pelican 分支
-*. 生成博客内容
-*. 将生成的博客内容推送到 github 的 master 分支
+* 提交所有的更改
+* 将代码库内容推送到 github 的 pelican 分支
+* 生成博客内容
+* 将生成的博客内容推送到 github 的 master 分支
 
 如果需要添加自己的commit message 请手动进行 git 相关操作。
 
