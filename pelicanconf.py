@@ -20,10 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('乐空空', 'http://www.lekongong.com/')),
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -36,8 +33,8 @@ DEFAULT_PAGINATION = 15
 
 THEME='Flex'
 
-SITETITLE = 'Lkk Team Blog'
-SITESUBTITLE = ''
+SITETITLE = 'Lkk Team'
+SITESUBTITLE = 'make world better~~'
 SITEDESCRIPTION = 'Lkk Team members Thoughts and Writings'
 SITELOGO = 'http://s.baixing.net/lkk/favicon.png'
 BROWSER_COLOR = '#333'
