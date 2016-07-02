@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Lkk Team'
 SITENAME = u'Lkk Team Blog'
-SITEURL = u'https://lekongkong.github.io/'
+SITEURL = u'https://lekongkong.github.io'
 
 PATH = 'content'
 
@@ -20,7 +20,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('乐空空', 'http://www.lekongong.com/')),
+LINKS = (('乐空空', 'http://www.lekongong.com/'),
+         ('百姓网', 'http:www.baixing.comm'),
+         ('Github', 'https://github.com/LeKongKong/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -36,7 +38,7 @@ THEME='Flex'
 SITETITLE = 'Lkk Team'
 SITESUBTITLE = 'make world better~~'
 SITEDESCRIPTION = 'Lkk Team members Thoughts and Writings'
-SITELOGO = 'http://file.baixing.net/201607/eebe4a59ed0852fa1df5b6ded8fe00c2.png'
+SITELOGO = 'http://s.baixing.net/lkk/favicon.png'
 BROWSER_COLOR = '#333'
 
 FAVICON = 'http://s.baixing.net/lkk/favicon.png'
