@@ -30,7 +30,7 @@ THEME='Flex'
 
 AUTHOR = 'Lkk Team'
 SITENAME = 'Lkk Team Blog'
-SITEURL = 'http://lekongkong.github.io'
+SITEURL = 'http://blog.lekongkong.tech'
 RELATIVE_URLS = False
 SITETITLE = 'Lkk Team'
 SITESUBTITLE = 'make world better~~'
